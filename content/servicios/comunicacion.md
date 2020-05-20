@@ -1,12 +1,10 @@
 ---
-title: 'Comunicación'
-date: 2018-11-18T12:33:46+10:00
-icon: 'servicios/077-idea-1.svg'
-draft: false
+title: Comunicación
+date: 2018-11-18T02:33:46.000+00:00
+icon: servicios/077-idea-1.svg
 featured: true
-weight: 5
+weight: "5"
+draft: true
+
 ---
-- Plan de comunicación a corto, mediano y/o largo plazo
-- Consultoría y asesoramiento
-- Gestión de crisis
-- Eventos y activaciones
+Generamos planes de comunicación a corto, mediano y/o largo plazo mediante un exhaustivo análisis previo de tu marca. Te asesoramos en el amplio abanico de la comunicación. Realizamos desde planificación, generación de contenido y eventos hasta hacemos realidad la idea más extravagante. ¡Estamos para ayudarte! ¡Amamos los desafíos!
