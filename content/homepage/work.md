@@ -1,8 +1,18 @@
 ---
-title: 'No hablamos de clientes, trabajamos con partners.'
-weight: 1
-background: 'backgrounds/damian-zaleski-RYyr-k3Ysqg-unsplash.jpg'
----
-Generamos soluciones basadas en el estudio concreto de cada caso.
+title: No hablamos de clientes, trabajamos con partners.
+weight: "1"
+background: backgrounds/damian-zaleski-RYyr-k3Ysqg-unsplash.jpg
+draft: true
 
-Nos adaptamos a la forma de trabajar de nuestros partners. Nos sentamos juntos hasta entender y comprometernos con sus objetivos tanto como él mismo.
+---
+> 
+
+###### Te entendemos y nos comprometemos con tus objetivos tanto como vos.
+
+> 
+
+###### Generamos soluciones basadas en el estudio concreto de cada caso.
+
+> 
+>
+> ###### Nos adaptamos a las diferentes formas de trabajo.
