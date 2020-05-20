@@ -1,12 +1,10 @@
 ---
-title: "Desarrollo"
-date: 2020-05-04T21:57:32-03:00
-draft: false
-icon: 'servicios/001-browser.svg'
+title: Desarrollo Web
+date: 2020-05-05T00:57:32.000+00:00
+icon: servicios/001-browser.svg
 featured: true
-weight: 2
+weight: "2"
+draft: true
+
 ---
-
-* Desarrollo web
-* Optimización de plataformas del cliente
-
+No alcanza con existir en el mundo offline y en las redes sociales. Dependiendo del tipo de negocio, también es importante contar con un sitio web. Esto permite una nueva relación entre tu marca y clientes a la vez que genera un sinfín de nuevas oportunidades. Contamos con el apoyo de partners especializados para brindarte el mejor servicio posible.
