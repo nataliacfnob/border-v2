@@ -7,5 +7,4 @@ weight: "1"
 draft: true
 
 ---
-Diseño gráfico   
-Branding
+Elegir y ser cuidadoso con cada detalle de tu identidad visual es extremadamente importante para la buena percepción de tu marca. Realizamos desde logos, composiciones para redes sociales, folleteria y muchos más. ¡Nos adaptamos a lo que necesites!
