@@ -1,7 +1,7 @@
 ---
 title: No hablamos de clientes, trabajamos con partners.
 weight: "1"
-background: backgrounds/damian-zaleski-RYyr-k3Ysqg-unsplash.jpg
+background: "/student-849822_1920.jpg"
 draft: true
 
 ---
