@@ -1,4 +1,4 @@
-baseURL = "https://musing-dijkstra-b3cec6.netlify.app"
+baseURL = "http://borderhouse.uy/"
 languageCode = "en-us"
 title = "bordɘr house"
 theme = "hugo-hero-theme"
