@@ -2,7 +2,7 @@
 title: No hablamos de clientes, trabajamos con partners.
 weight: "1"
 background: "/studentjpg.jpg"
-draft: true
+draft: false
 
 ---
 > 

@@ -5,6 +5,6 @@ heroHeading: "¡Biɘnvenidos!"
 heroSubHeading: Somos una casa de comunicación flexible que se adapta a las necesidades
   de cada partner.
 # heroBackground: "/tuvieja-01.png"
-draft: true
+draft: false
 
 ---
