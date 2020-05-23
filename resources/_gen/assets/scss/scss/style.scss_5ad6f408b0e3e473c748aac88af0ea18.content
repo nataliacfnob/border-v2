@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam&display=swap");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -50,7 +51,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
@@ -5471,7 +5472,7 @@ ol {
   .footer .footer-title {
     color: #ffffff;
     font-size: 1.3rem;
-    font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+    font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
     margin-bottom: 10px;
     flex: 0; }
     @media (min-width: 576px) {
@@ -5663,7 +5664,7 @@ ol {
         animation-delay: 0.6s; }
   .main-menu-mobile ul {
     font-size: 2rem;
-    font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+    font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
     text-align: center;
     list-style: none;
     padding: 0;
@@ -5779,7 +5780,7 @@ ul.social {
   color: #000000;
   font-size: 2.4rem;
   line-height: 1.2;
-  font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system; }
   @media (min-width: 768px) {
     .title-1 {
       font-size: 3rem; } }
@@ -5787,7 +5788,7 @@ ul.social {
     color: #222222; }
 
 .title-2 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-weight: light;
   color: #333333;
   font-size: 2.4rem; }
@@ -5798,7 +5799,7 @@ ul.social {
     display: block; }
 
 .title-3 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   font-weight: 600;
   color: #2b2b39;
   font-size: 1.9rem;
@@ -5826,10 +5827,10 @@ ul.social {
 
 .content p {
   color: #4e4e4e;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system; }
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system; }
 
 .content h1 {
-  font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   line-height: 1.2;
   font-weight: 300;
   color: #333333; }
@@ -5838,7 +5839,7 @@ ul.social {
       line-height: 1.2;
       font-weight: 300; } }
 .content h2 {
-  font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   line-height: 1.4;
   font-weight: 400;
   color: #333333; }
@@ -5877,7 +5878,7 @@ ul.social {
     color: #000000;
     font-size: 2.4rem;
     line-height: 1.2;
-    font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+    font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
     width: 70%; }
     @media (min-width: 576px) {
       .intro h1 {
@@ -5913,7 +5914,8 @@ ul.social {
   padding-bottom: 30px; }
 
 .strip {
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  background-size: cover; }
 
 .strip-white {
   background-color: white; }
@@ -6006,8 +6008,8 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: darken;
-  background-color: #000000dc;
+  background-position: center center;
+  background-color: #00000000;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6051,10 +6053,12 @@ ul.social {
     font-weight: normal; }
 
 .hero-image-fullscreen {
-  height: 100vh; }
+  height: 100vh;
+  background-image: linear-gradient(90deg, #434343 23%, black 80%); }
 
 .hero-image-setheight {
-  height: 460px; }
+  height: 460px;
+  background-image: linear-gradient(90deg, #434343 23%, black 80%); }
 
 .hero-image-blend-overlay {
   background-blend-mode: overlay; }
@@ -6098,7 +6102,7 @@ ul.social {
   display: flex;
   align-items: flex-start; }
   .service-summary .service-image {
-    flex: 0 0 40px;
+    flex: 0 0 60px;
     margin-right: 10px; }
     .service-summary .service-image img {
       max-width: 100%;
@@ -6108,7 +6112,7 @@ ul.social {
     .service-summary .service-content ul {
       list-style: disc outside none; }
     .service-summary .service-content .service-title {
-      font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+      font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
     .service-summary .service-content p {
       color: #666;
@@ -6130,7 +6134,7 @@ ul.social {
     padding: 20px;
     border-bottom: 2px solid #000000; }
     .work-summary .work-content .work-title {
-      font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+      font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
     .work-summary .work-content p {
       color: #666;
@@ -6138,7 +6142,7 @@ ul.social {
 
 .page-work-single h1.title {
   font-size: 3rem;
-  font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "Be Vietnam", "Helvetica Neue", Arial, sans-serif, -apple-system;
   color: #000000; }
 
 .page-work-single .work-image img {
