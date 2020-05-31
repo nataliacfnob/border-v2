@@ -11,4 +11,4 @@ thumbnail: '/equipo/mikaredonda.jpg'
 # 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-Licenciada en Comunicación en la Universidad Católica del Uruguay.
+Licenciada en Comunicación de la Universidad Católica del Uruguay.
