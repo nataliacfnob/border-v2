@@ -12,5 +12,3 @@ thumbnail: '/equipo/mikaredonda.jpg'
 ---
 
 Licenciada en Comunicación en la Universidad Católica del Uruguay.
-
-> “Me apasiona la comunicación en todos sus variantes pero de una manera especial en dos de ellas: la publicidad y la fotografía. Tengo un espíritu emprendedor y me gusta estar actualizada en todas las tendencias del rubro.”

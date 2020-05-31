@@ -5,6 +5,4 @@ weight: "2"
 thumbnail: "/equipo/natyredonda.jpg"
 
 ---
-Licenciada en Comunicación de la Universidad Católica del Uruguay. Formación en Creatividad Publicitaria en Brother, la Escuela de Creativos más premiada de Iberoamérica.
-
-> “Me apasiona la comunicación en todos sus variantes pero de una manera especial en dos de ellas: la publicidad y la fotografía. Tengo un espíritu emprendedor y me gusta estar actualizada en todas las tendencias del rubro.”
+Licenciada en Comunicación de la Universidad Católica del Uruguay. Egresada del curso de Creatividad Publicitaria en Brother, la Escuela de Creativos más premiada de Iberoamérica.
