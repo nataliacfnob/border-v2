@@ -11,7 +11,7 @@ theme = "hugo-hero-theme"
     meta_og_title = "bordɘr house"
     meta_og_type = "website"
     meta_og_url = "https://borderhouse.uy/"
-    meta_og_image = "https://github.com/nataliacfnob/border-v2/blob/master/static/logo-og.png?raw=true"
+    meta_og_image = "https://raw.github.com/nataliacfnob/border-v2/master/static/logo-og.png"
     meta_og_description = "Somos una casa de comunicación flexible que se adapta a las necesidades de cada partner."
 
 [[menu.main]]
