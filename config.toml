@@ -1,4 +1,4 @@
-baseURL = "http://borderhouse.uy/"
+baseURL = "https://borderhouse.uy/"
 languageCode = "en-us"
 title = "bordɘr house"
 theme = "hugo-hero-theme"
