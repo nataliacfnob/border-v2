@@ -1,39 +1,28 @@
 baseURL = "https://borderhouse.uy/"
 languageCode = "en-us"
-title = "bordɘr house"
 theme = "hugo-hero-theme"
-
+title = "bordɘr house"
+[[menu.main]]
+name = "Contacto"
+url = "/contacto/"
+weight = 2
+[[menu.main]]
+name = "Servicios"
+url = "/servicios/"
+weight = 1
 [params]
-  google_analytics_id=""
-
-  [params.homepage_meta_tags]
-    meta_description = "Somos una casa de comunicación flexible que se adapta a las necesidades de cada partner."
-    meta_og_title = "bordɘr house"
-    meta_og_type = "website"
-    meta_og_url = "https://borderhouse.uy/"
-    meta_og_image = "https://raw.github.com/nataliacfnob/border-v2/master/static/logo-og2.png"
-    meta_og_description = "Somos una casa de comunicación flexible que se adapta a las necesidades de cada partner."
-
-[[menu.main]]
-	name = "Servicios"
-	url = "/servicios/"
-    weight = 1
-
-[[menu.main]]
-    name = "Equipo"
-    url = "/equipo/"
-    weight = 2
-
-[[menu.main]]
-    name = "Contacto"
-    url = "/contacto/"
-    weight = 3
-
+google_analytics_id = ""
+[params.homepage_meta_tags]
+meta_description = "Somos una casa de comunicación flexible que se adapta a las necesidades de cada partner."
+meta_og_description = "Somos una casa de comunicación flexible que se adapta a las necesidades de cada partner."
+meta_og_image = "https://raw.github.com/nataliacfnob/border-v2/master/static/logo-og2.png"
+meta_og_title = "bordɘr house"
+meta_og_type = "website"
+meta_og_url = "https://borderhouse.uy/"
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
-
+pages = "/:filename/"
+post = "/:year/:month/:day/:slug/"
 [social]
-  facebook = "https://www.facebook.com/borderhouseuy"
-  instagram = "https://www.instagram.com/border.house"
-  linkedin = "http://linkedin.com/company/borderhouse"
+facebook = "https://www.facebook.com/borderhouseuy"
+instagram = "https://www.instagram.com/border.house"
+linkedin = "http://linkedin.com/company/borderhouse"
